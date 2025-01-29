@@ -1,5 +1,5 @@
 """sum"""
 
 def sum(a, b):  # pylint: disable=redefined-builtin
-    """function for summation"""
+    """function for sum up values"""
     return a + b
