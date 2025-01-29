@@ -1,5 +1,5 @@
 """division_without_remainder"""
 
 def division_without_remainder(a, b):
-    """function for summation"""
+    """division without remainder any leftovers are ignored"""
     return a // b
