@@ -1,5 +1,5 @@
-"""sum"""
+"""Reminder"""
 
 def reminder(a, b):
-    """function for reminder"""
+    """Function to calculate the remainder of dividing two numbers"""
     return a % b
